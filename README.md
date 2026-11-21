@@ -70,6 +70,18 @@ O chat foi configurado para atuar como **educador financeiro especializado em or
 
 ![Segundo teste — resposta com citações](teste-02-citacoes.jpeg)
 
+### Evidências dos testes
+
+**Teste 1 — Organização financeira**
+
+- [Resposta inicial com citações](teste-01-citacoes.jpeg)
+- [Continuação da resposta](teste-01.2-citacoes.jpeg)
+- [Verificação da fonte original](teste-01.3-citacoes.jpeg)
+
+**Teste 2 — Orçamento deficitário**
+
+- [Resposta com citações](teste-02-citacoes.jpeg)
+  
 ## Materiais de estudo
 
 - [Guia em PDF — 7 passos para organizar suas finanças](guia-dinheiro-sem-complicacao.pdf)
